@@ -1,0 +1,776 @@
+BUKU PANDUAN 
+JAMINAN KESEHATAN 
+NASIONAL (JKN)
+BAGI POPULASI KUNCI
+BUKU PANDUAN 
+JAMINAN KESEHATAN 
+NASIONAL (JKN)
+BAGI POPULASI KUNCI
+KATA PENGANTAR
+Rasa syukur yang mendalam penyusun sampaikan atas kehadirat Tuhan Yang 
+Maha Pemurah, karena berkat kemurahan-Nya buku Panduan ini dapat kami 
+selesaikan dengan baik. Panduan ini membahas panduan praktis mengenai 
+beragam manfaat dari Jaminan Kesehatan Nasional (JKN).
+Penulisan buku Panduan ini tiada bermaksud untuk menggantikan buku-buku 
+panduan yang telah diterbitkan selama ini. Hanya bermaksud memberikan 
+kemudahan kepada komunitas (populasi kunci) yang mempunyai karakteristik 
+khusus, dengan mengambil intisari dari buku-buku panduan yang telah ada dan 
+menekankan isi yang sesuai kebutuhan mereka. Panduan ini diperuntukkan untuk komunitas terbatas.
+Proses penyusunan Panduan ini melalui beberapa tahap yang diawali dengan 
+menggali kebutuhan populasi kunci terhadap JKN, dan dilanjutkan dengan proses 
+lokakarya yang melibatkan para populasi kunci untuk mendapatkan masukan 
+terbaik bagi penyusunan Panduan ini.
+Untuk itu penyusun mengucapkan terima kasih yang sebesar-besarnya kepada 
+pihak-pihak yang telah terlibat dan berpartisipasi, terutama kantor ILO Jakarta,  dalam rangkaian kegiatan penyusunan Panduan ini yang tidak dapat kami 
+sebutkan satu-persatu.
+Besar harapan kami Panduan ini dapat berguna dan bermanfaat bagi pengguna 
+JKN, terutama dari komunitas populasi kunci sehingga dampak nyata serta tujuan 
+utama terselenggaranya JKN ini dirasakan oleh seluruh lapisan masyarakat 
+Indonesia. Tak lupa permohonan maaf dari kami Tim Penyusun, apabila masih 
+banyak terdapat kekurangan dan kami terbuka untuk menerima kritik dan saran 
+yang membangun untuk proses penyempurnaan buku panduan ini.
+Jakarta, 2016
+Tim PenyusunDAFTAR ISTILAH
+BPJS   : Badan Penyelenggara Jaminan Sosial
+Degeneratif kronis : Penyakit di mana organ atau struktur jaringan tubuh 
+     akan memburuk sejalan waktu
+DJSN   : Dewan Jaminan Sosial Nasional
+Faskes   : Fasilitas Kesehatan
+Fasyankes  : Fasilitas Layanan Kesehatan
+HPL   : Hari Perkiraan Lahir
+INA CBGs  : Indonesia Case Base Group, sistem pembayaran 
+     dengan paket berdasarkan penyakit
+Jamkesda  : Jaminan Kesehatan Daerah
+Jamkesmas  : Jaminan Kesehatan Masyarakat
+Jamsostek  : Jaminan Sosial Tenaga Kerja
+JKN   : Jaminan Kesehatan Nasional
+KHL   : Kehidupan Hidup Layak
+NIK   : Nomor Induk Kependudukan
+PBI   : Penerima Bantuan Iuran
+PBPU   : Pekerja Bukan Penerima Upah
+PerMen   : Peraturan Menteri
+PerPres   : Peraturan Presiden
+Popkun   : Populasi Kunci (kelompok yang beresiko tinggi 
+     terhadap penularan HIV)
+Portabilitas  : Dapat diakses di semua wilayah
+PPU   : Pekerja Penerima Upah
+SJSN   : Sistem Jaminan Sosial Nasional
+TKSK   : Tenaga Kesejahteraan Sosial KecamatanDAFTAR ISI
+Kata Pengantar        
+Daftar Istilah         
+Daftar Isi         
+Pendahuluan         1
+1. Pengertian Jaminan Kesehatan Nasional (JKN)     3
+1.1 JKN         4
+1.2 Mengapa Perlu JKN        4
+1.3 Prinsip-prinsip Pelaksanaan JKN      5
+2. Pengertian Badan Penyelenggara Jaminan Sosial (BPJS)Kesehatan   7
+2.1 BPJS         82.2 Pertanggungjawaban BPJS       8
+3. Dasar Hukum       10
+3.1. Undang-Undang RI      113.2. Peraturan Presiden      11
+3.3. Peraturan Setingkat Menteri     12
+3.4. Peraturan Setingkat Badan Pelaksana   12
+4. Kepesertaan       14
+4.1. Peserta Mandiri      16
+4.1.1 Pekerja Penerima Upah    16
+4.1.2 Pekerja Bukan Penerima Upah    17
+4.1.3 Bukan Pekerja      17
+4.2. Peserta Penerima Bantuan Iuran    18
+5. Penyelenggaraan JKN      24
+5.1. Manfaat       25
+5.2. Alur Layanan      27
+5.2.1. Alur rujuk Balik     29
+5.3. Pembiayaan      29
+6. Pertanyaan terkait JKN      31
+7. Kesimpulan       35
+8.  Referensi       37BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI1PENDAHULUAN
+Dalam sidang ke-58 tahun 2005 di Jenewa, World Health Assembly (WHA) 
+menggarisbawahi perlunya pengembangan sistem pembiayaan kesehatan yang 
+menjamin tersedianya akses masyarakat terhadap pelayanan kesehatan dan 
+memberikan perlindungan kepada mereka terhadap risiko keuangan. WHA 
+ke-58 mengeluarkan resolusi yang menyatakan, pembiayaan kesehatan yang 
+berkelanjutan melalui Universal Health Coverage diselenggarakan melalui 
+mekanisme asuransi kesehatan sosial. WHA juga menyarankan kepada WHO agar 
+mendorong negara-negara anggota untuk mengevaluasi dampak perubahan sistem 
+pembiayaan kesehatan terhadap pelayanan kesehatan ketika mereka bergerak 
+menuju Universal Health Coverage. 
+Di Indonesia, falsafah dan dasar negara Pancasila terutama sila ke-5 juga mengakui 
+hak asasi warga atas kesehatan. Hak ini juga termaktub dalam Undang-Undang 
+Dasar (UUD) 45 pasal 28H dan pasal 34, dan diatur dalam Undang-Undang (UU) 
+No. 23/1992 yang kemudian diganti dengan UU No. 36/2009 tentang Kesehatan. 
+Dalam UU No. 36/2009 ditegaskan bahwa setiap orang mempunyai hak yang sama 
+dalam memperoleh akses atas sumber daya di bidang kesehatan dan memperoleh 
+pelayanan kesehatan yang aman, bermutu, dan terjangkau. Sebaliknya, setiap orang 
+juga mempunyai kewajiban turut serta dalam program jaminan kesehatan sosial.
+Untuk mengurangi risiko masyarakat menanggung biaya kesehatan dari kantong 
+sendiri (out of pocket), dalam jumlah yang sulit diprediksi dan kadang-kadang 
+memerlukan biaya yang sangat besar, diperlukan suatu jaminan dalam bentuk 
+asuransi kesehatan karena peserta membayar premi dengan besaran tetap. Dengan 
+demikian pembiayaan kesehatan ditanggung bersama secara gotong-royong oleh 
+keseluruhan peserta, sehingga tidak memberatkan orang per orang.
+Tetapi asuransi kesehatan saja tidak cukup. Diperlukan asuransi kesehatan 
+sosial atau Jaminan Kesehatan Sosial (JKN). Karena asuransi kesehatan sosial 
+memberikan manfaat yang komprehensif dengan premi terjangkau. Asuransi 
+kesehatan sosial menerapkan prinsip kendali biaya dan mutu. Itu berarti peserta 
+bisa mendapatkan pelayanan bermutu memadai dengan biaya yang wajar dan 
+terkendali, bukan “terserah dokter” atau terserah “rumah sakit”. BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI2Serta asuransi kesehatan sosial menjamin kepastian pembiayaan pelayanan 
+kesehatan yang berkelanjutan serta memiliki portabilitas  sehingga dapat 
+digunakan di seluruh wilayah Indonesia. Oleh sebab itu, untuk melindungi seluruh 
+warga, kepesertaan asuransi kesehatan sosial/JKN bersifat wajib.
+Dalam periode Agustus – September 2015 telah diadakan rangkaian diskusi 
+kelompok terfokus kepada populasi kunci terkait permasalahan JKN/BPJS. 
+Tantangan utama yang terangkum dari diskusi tesebut di antaranya meliputi dari 
+rendahnya tingkat pemahaman komunitas akan JKN, tidak adanya portabilitas 
+JKN, belum terakomodirnya layanan yang dibutuhkan oleh populasi kunci  dalam 
+Paket Manfaat JKN hingga masih ditemuinya stigma dan diskriminasi di tataran pemberi layanan kepada populasi kunci.
+Terkait dengan hal tersebut maka inisiatif untuk menerbitkan buku saku ini 
+sebagai panduan/pegangan bagi populasi kunci diharapkan dapat membantu 
+memecahkan permasalahan ini.BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI3PENGERTIAN JAMINAN 
+KESEHATAN NASIONAL (JKN )1BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI4
+1.1  JKN
+Jaminan sosial adalah bentuk perlindungan sosial untuk menjamin seluruh rakyat 
+agar dapat memenuhi kebutuhan dasar hidupnya yang layak. Sistem Jaminan Sosial 
+Nasional (SJSN) adalah tata cara penyelenggaraan program Jaminan Sosial oleh 
+Badan Penyelenggara Jaminan Sosial (BPJS) Kesehatan dan BPJS Ketenagakerjaan.
+JKN yang dikembangkan di Indonesia merupakan bagian dari SJSN yang 
+diselenggarakan dengan menggunakan mekanisme asuransi kesehatan yang 
+bersifat wajib berdasarkan UU No. 40 Tahun 2004 tentang SJSN dengan tujuan untuk 
+memenuhi kebutuhan dasar kesehatan masyarakat yang layak diberikan kepada 
+setiap orang yang telah membayar iuran atau iurannya dibayar oleh pemerintah.
+Kepersertaannya wajib bagi seluruh penduduk Indonesia, dengan tujuan agar 
+semua penduduk Indonesia terlindungi dalam sistem asuransi, sehingga mereka 
+dapat memenuhi kebutuhan dasar kesehatan masyarakat yang layak.
+Seluruh penduduk Indonesia termasuk di dalamnya adalah populasi kunci yang 
+memang hak kesehatannya sesuai mandat UU ditanggung oleh negara. Hal ini yang 
+selalu ditekankan agar populasi kunci dapat memahami dan mengerti serta berperan 
+aktif dalam memenuhi hak individunya maupun hak kelompok terkait kesehatannya.
+Diharapkan dengan adanya JKN seluruh rakyat Indonesia dapat memenuhi 
+kebutuhan kesehatan dasar. Populasi kunci yang rentan terhadap permasalahan 
+kesehatan dapat mengakses layanan-layanan yang ada sehingga meningkat 
+kualitas kesehatannya baik secara individu maupun secara kelompok.
+1.2  Mengapa Perlu JKN
+Dalam perjalanannya biaya kesehatan tiap-tiap penduduk dari hari ke hari mengalami kenaikan, dan dengan perkembangan saat ini di mana telah terjadi 
+pergeseran pola penyakit dari infeksi ringan menjadi 
+degeratif kronis  (penyakit 
+di mana fungsi organ atau struktur dari jaringan tubuh akan semakin memburuk dari waktu ke waktu).BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI5
+Keadaan atau kondisi sakit tentunya akan berdampak pada aspek sosial dan 
+ekonomi kehidupan seseorang. Sebagai ilustrasi sederhana jika seseorang 
+menderita sakit, ini akan menjadi risiko individu di mana ia harus melakukan 
+pembiayaan sendiri dengan jumlah yang tidak dapat diprediksi dan akan 
+berdampak pada perekonomian keluarga.
+Jika hal itu diubah menjadi resiko kelompok dengan mekanisme asuransi sosial 
+yang bersifat wajib dengan prinsip gotong-royong dan iuran yang terjangkau 
+maka dampak manfaatnya akan lebih luas dan berkelanjutan.
+Populasi kunci sebagai bagian dari masyarakat dengan asumsi berisiko tinggi 
+dalam permasalahan kesehatan akan sangat terbantu dengan adanya mekanisme 
+ini, di mana proteksi sosial ekonomi serta akses dalam masalah kesehatan lebih 
+terjaga walaupun masih tetap diperlukan perbaikan perbaikan dalam menuju 
+manfaat layanan kesehatan paripurna.
+1.3  Prinsip-prinsip Pelaksanaan JKN
+Prinsip-prinsip Pelaksanaan JKN mengacu pada prinsip pada SJSN.
+• Prinsip Kegotong-royongan
+ Prinsip gotong-royong berarti peserta yang mampu membantu peserta 
+yang kurang mampu. Peserta yang sehat membantu peserta yang sakit atau 
+berisiko tinggi. Hal ini dapat terwujud karena sistem ini bersifat wajib bagi 
+seluruh penduduk Indonesia.
+• Prinsip Nirlaba
+ Pengelolaan dana amanat oleh BPJS bukan untuk mencari laba/keuntungan. 
+Sebaliknya tujuan utama adalah memenuhi kebutuhan peserta. Dana yang 
+dikumpulkan dari peserta adalah dana amanat sehingga pengembangannya 
+akan dimanfaatkan sebesar-besarnya untuk kepentingan peserta.BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI6
+• Prinsip Portabilitas
+ Prinsip ini dimaksudkan untuk memberikan jaminan yang berkelanjutan 
+kepada peserta sekalipun mereka berpindah pekerjaan atau tempat tinggal 
+dalam wilayah Negara Kesatuan Republik Indonesia.
+• Prinsip Kepersertaan Bersifat Wajib
+ Kepersertaan bersifat wajib dimaksudkan agar seluruh rakyat menjadi peserta sehingga dapat terlindungi. Meskipun kepersertaan bersifat wajib, 
+penerapannya tetap disesuaikan dengan kemampuan ekonomi rakyat dan 
+pemerintah serta kelayakan penyelenggaraan program.BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI7PENGERTIAN BADAN PENYELENGGARA 
+JAMINAN KESEHATAN ( BPJS )2BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI82.1  BPJS
+BPJS adalah salah satu lembaga sosial yang dibentuk untuk menyelenggarakan 
+program-program seperti jaminan sosial yang ada di Indonesia. Menurut UU No. 24 
+Tahun 2011 BPJS akan mengganti sejumlah lembaga-lembaga jaminan sosial yang 
+ada, seperti lembaga asuransi kesehatan PT Askes Indonesia akan diganti menjadi 
+BPJS Kesehatan. BPJS adalah badan hukum publik milik negara yang non-profit dan 
+bertanggung jawab kepada Presiden. Terdapat dua BPJS, yaitu BPJS Kesehatan dan 
+BPJS Ketenagakerjaan.
+2.2  Pertanggungjawaban BPJS
+BPJS Kesehatan wajib membayar fasilitas kesehatan atas pelayanan yang 
+diberikan kepada peserta paling lambat 15 (lima belas) hari sejak dokumen klaim 
+diterima lengkap. Besaran pembayaran kepada fasilitas kesehatan ditentukan 
+berdasarkan kesepakatan antara BPJS Kesehatan dan asosiasi fasilitas kesehatan 
+di wilayah tersebut dengan mengacu pada standar tarif yang ditetapkan oleh 
+Menteri Kesehatan. Apabila terjadi ketidaksepakatan atas besaran pembayaran, 
+Menteri Kesehatan memutuskan besaran pembayaran atas program JKN yang 
+diberikan. Asosiasi fasilitas kesehatan ditetapkan oleh Menteri Kesehatan. 
+Dalam JKN, peserta dapat meminta manfaat tambahan berupa manfaat yang bersifat non medis seperti akomodasi. Misalnya: peserta yang menginginkan 
+kelas perawatan yang lebih tinggi dari haknya, dapat meningkatkan haknya 
+dengan mengikuti asuransi kesehatan tambahan, atau membayar sendiri selisih 
+antara biaya yang dijamin oleh BPJS Kesehatan dan biaya yang harus dibayar 
+akibat peningkatan kelas perawatan, yang disebut dengan Iuran biaya tambahan. 
+Ketentuan tersebut tidak berlaku bagi peserta Penerima Bantuan Iurna (PBI).BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI9BPJS Kesehatan wajib menyampaikan pertanggungjawaban atas pelaksanaan 
+tugasnya dalam bentuk laporan pengelolaan program dan laporan keuangan 
+tahunan yang telah diaudit oleh akuntan sistem kepada Presiden dengan 
+tembusan kepada DJSN paling lambat tanggal 30 Juni tahun berikutnya.
+• Laporan tersebut dipublikasikan dalam bentuk ringkasan eksekutif melalui 
+media massa elektronik dan melalui paling sedikit dua media massa cetak 
+yang memiliki peredaran luas secara nasional, paling lambat tanggal 31 Juli 
+tahun berikutnya.
+• Periode laporan dimulai dari 1 Januari hingga 31 Desember.
+ 
+BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI10DASAR HUKUM3BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI11Landasan hukum dalam melaksanakan SJSN antara lain adalah:
+3.1  Undang – Undang (UU) Republik Indonesia:
+• UU No. 40 Tahun 2004  tentang Sistem Jaminan Sosial Nasional.
+• UU No. 24 Tahun 2011 tentang Badan Penyelenggaraan Jaminan Sosial.
+3.2  Peraturan Presiden (Perpres) Republik Indonesia :
+• Perpres RI No. 101 Tahun 2012 tentang Penerima Bantuan Iuran Jaminan 
+Kesehatan
+• Perpres RI No. 12 Tahun 2013 tentang Jaminan Kesehatan.
+• Perpres RI No. 111 Tahun 2013 tentang Perubahan atas Peraturan Presiden 
+No. 12 Tahun 2013 Tentang Jaminan Kesehatan.
+• Perpres RI No. 108 Tahun 2013  tentang Bentuk dan Isi Laporan Pengelolaan 
+Program Jaminan Sosial
+• Perpres RI No. 109 Tahun 2013  tentang Penahapan Kepersertaan Program 
+Jaminan Sosial
+• Perpres RI No. 107 Tahun 2013 tentang Pelayanan Kesehatan Tertentu 
+berkaitan dengan Kegiatan
+• Perpres RI No. 32 Tahun 2014 tentang Pengelolaan dan Pemanfaatan Dana 
+Kapitasi JKN
+• Perpres RI No. 19 Tahun 2016  tentang Perubahan Kedua atas Perpres No. 12 
+Tahun 2013 
+• Perpres RI No. 28 Tahun 2016 tentang Perubahan Ketiga atas Perpres No. 12 
+Tahun 2013BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI12
+3.3  Peraturan dan Keputusan setingkat Menteri Republik 
+Indonesia:
+• Keputusan Menteri Kesehatan No. 326 Tahun 2013 tentang Penyiapan Kegiatan 
+Penyelenggaraan Jaminan Kesehatan Nasional
+• Peraturan Menteri Keuangan RI No. 206 Tahun 2013 tentang Tatacara Penyediaan, Pencairan dan Pertanggungjawaban Dana Iuran Jaminan
+• Peraturan Menteri Kesehatan RI No. 71 Tahun 2013 tentang Pelayanan Kesehatan pada Jaminan Kesehatan Nasional (JKN)
+• Peraturan Menteri Keuangan No. 19 Tahun 2014 tentang Penggunaan Dana Kapitasi Jaminan Kesehatan
+• Peraturan Menteri Keuangan RI No. 28 Tahun 2014 tentang Pedoman Pelaksanaan Program JKN
+• Peraturan Menteri Keuangan RI No. 27 Tahun 2014 tentang Petunjuk Teknis 
+INA- CBGs
+• Peraturan Menteri Keuangan RI No. 59 Tahun 2014 tentang Tarif JKN
+• Keputusan Menteri Sosial RI No. 170/HUK/2015 tentang Penerima Bantuan 
+Iuran 2016
+• Keputusan Menteri Kesehatan RI No. HK.02.02/Menkes/523/2015 tentang Formularium Nasional
+• Peraturan Menteri Keuangan No. 99 Tahun 2015 tentang Pelayanan Kesehatan Pada Jaminan Kesehatan Nasional                      
+3.4  Peraturan setingkat badan pelaksana:
+• Peraturan BPJS Kesehatan No. 2 Tahun 2014 tentang Unit Pengendali Mutu dan Penanganan Pengaduan Peserta 
+• Peraturan BPJS Kesehatan No. 3 Tahun 2014 tentang Kepatuhan
+• Peraturan BPJS Kesehatan No. 1 Tahun 2015 tentang Tata Cara Pendaftaran 
+dan Pembayaran Iuran Bagi Pekerja bukan Penerima Upah dan Peserta Bukan 
+PekerjaBUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI13
+• Peraturan Direksi BPJS Kesehatan No. 32 Tahun 2015 tentang Petunjuk Teknis 
+Tatacara Pendaftaran dan Pembayaran Iuran bagi PPU dan BP
+UU serta peraturan-peraturan mengenai jaminan kesehatan cukup beragam 
+serta dinamis yang menyesuaikan dengan kondisi terkini kebutuhan masyarakat. 
+Meski belum seluruh permasalahan terkait JKN dapat terpecahkan tetapi banyak 
+mengalami perbaikan menuju pelaksanaan yang lebih baik. Perbaikan ini terjadi 
+mulai dari tingkatan yang teratas hingga peraturan mengenai teknis pelaksanaan, 
+yang menjadi pegangan bagi populasi kunci untuk dapat memenuhi hak-haknya 
+terkait dengan jaminan kesehatan. 
+Oleh sebab itu akan selalu ada peraturan yang terbaru untuk menyempurnakan 
+sistem pelayanan JKN demi keuntungan masyarakat.BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI14KEPESERTAAN4BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI15Perpres RI No. 111 Tahun 2013 Pasal 6 menyatakan: Kepesertaan Jaminan 
+Kesehatan bersifat wajib dan mencakup seluruh penduduk Indonesia. Di dalam 
+UU SJSN diamanatkan bahwa seluruh penduduk wajib menjadi peserta jaminan 
+kesehatan termasuk Warga Negara Asing (WNA) yang tinggal di Indonesia 
+lebih dari enam bulan. Untuk menjadi peserta harus membayar iuran jaminan 
+kesehatan. Bagi yang mempunyai upah/gaji, besaran iuran berdasarkan 
+persentase upah/gaji yang dibayar oleh pekerja dan pemberi kerja. Bagi yang 
+tidak mempunyai gaji/upah besaran iurannya ditentukan dengan nilai nominal 
+tertentu, sedangkan bagi masyarakat miskin dan tidak mampu membayar iuran 
+maka iurannya ditanggung oleh pemerintah.
+KEPESERTAAN
+WAJI BNON
+PENERIMA UPAHPENERIMA UPAH
+PENERIMA 
+BANTUAN IURANKELOMPOK / 
+KELUARGA / INDIVIDUPEKERJA 
+& PEMBERI KERJ A
+PEMERINTAHIURANBUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI16
+4.1 Kepesertaan Mandiri
+Peserta mandiri adalah bukan penerima bantuan iuran, yang termasuk dalam 
+kategori ini adalah:  
+4.1.1  Pekerja Penerima Upah
+Pekerja penerima upah adalah setiap orang yang bekerja pada pemberi kerja dengan menerima upah atau gaji: 
+• Pegawai Negeri Sipil
+• Anggota TNI/ Polri
+• Pejabat Negara
+• Pegawai Pemerintah Non Pegawai Negeri
+• Pegawai Swasta
+• Pekerja yang tidak termasuk di atas yang menerima upah.
+Pekerja penerima upah dapat menyertakan anggota keluarga yang lain seperti 
+yang dijelaskan dalam Perpres No. 12 tahun 2013, Pasal 5, yaitu:
+•  Suami/istri yang sah dari peserta. 
+•  Anak kandung/anak tiri dan atau anak angkat yang sah dari peserta. 
+Dengan kriteria: 
+- Tidak atau belum menikah atau mempunyai penghasilan sendiri.
+- Belum berusia 21 tahun atau 25 tahun yang masih melanjutkan pendidikan 
+formal.
+Bagi pekerja yang mengalami Pemutusan Hubungan Kerja (PHK) atau disabilitas 
+tetap terdapat mekanisme yang telah diatur yaitu: 
+Bagi pekerja yang dalam masa enam bulan tidak mampu kembali bekerja akan 
+dimasukkan dalam kategori PBI sedangkan yang dalam jangka waktu enam 
+bulan dapat bekerja kembali dapat memperpanjang status dan melanjutkan 
+pembayaran iuran.BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI17
+4.1.2 Pekerja Bukan Penerima Upah
+Pekerja bukan penerima upah adalah setiap orang yang bekerja atau berusaha 
+atas risiko sendiri.
+Termasuk WNA yang bekerja di Indonesia paling singkat enam bulan.
+• Notaris/Pengacara/LSM dan sebagainya
+• Dokter praktik swasta/Bidan swasta dan sebagainya
+• Pedagang/Penyedia Jasa dan sebagainya
+• Petani/Peternak/Nelayan dan sebagainya
+• Pekerja Mandiri lainnya
+4.1.3 Bukan pekerja
+• Investor 
+• Pemberi kerja 
+• Penerima pensiun
+• Veteran
+• Perintis kemerdekaan 
+• Bukan pekerja yang tidak termasuk kriteria di atas 
+Bayi yang baru lahir
+Bayi dapat didaftarkan terhitung sejak terdeteksi adanya denyut jantung bayi 
+dalam kandungan, yang dibuktikan dengan melampirkan surat keterangan 
+dokter atau bidan. Surat keterangan dokter paling sedikit mengandung informasi 
+mengenai deteksi denyut jantung, usia bayi dalam kandungan, dan hari perkiraan 
+lahir. Mengisi formulir daftar isian peserta seperti pendaftaran perorangan 
+dan diserahkan ke kantor BPJS terdekat. Iuran pertama dilakukan paling cepat 
+setelah bayi dilahirkan dalam keadaan hidup dan paling lambat 30 hari kalender 
+setelah perkiraan lahir.BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI184.2  Peserta Penerima Bantuan Iuran
+Penerima Bantuan Iuran (PBI) jaminan kesehatan adalah fakir miskin dan orang 
+tidak mampu. Fakir miskin adalah orang yang sama sekali tidak mempunyai 
+sumber mata pencaharian dan/atau mempunyai sumber mata pencaharian tetapi 
+tidak mempunyai kemampuan memenuhi kebutuhan dasar yang layak (Kebutuhan 
+Hidup Layak yang selanjutnya disingkat KHL adalah standar kebutuhan yang harus 
+dipenuhi oleh seorang pekerja/buruh lajang untuk dapat hidup layak baik secara 
+fisik, non fisik dan sosial, untuk kebutuhan 1 (satu) bulan.) bagi kehidupan diri dan/ 
+atau keluarga. Standar kehidupan yang layak diatur berdasarkan Keputusan 
+Menteri Tenaga Kerja No. 13 Tahun 2012.
+Orang tidak mampu adalah orang yang mempunyai sumber mata pencaharian, 
+gaji atau upah, yang hanya mampu memenuhi kebutuhan dasar yang layak namun 
+tidak mampu membayar iuran bagi dirinya maupun keluarga.
+Kriteria fakir miskin dan orang tidak mampu yang terdaftar sesuai dengan 
+Peraturan Menteri Sosial No. 146 Tahun 2013.
+Kategori fakir miskin dan orang tidak mampu:
+a. Fakir miskin dan orang tidak mampu yang terdaftar.
+b. Fakir miskin dan orang tidak mampu yang belum terdaftar. 
+Fakir miskin dan orang tidak mampu yang belum terdaftar terdapat di dalam lembaga kesejahteraan sosial maupun di luar lembaga kesejahteraan sosial yang terdiri atas:
+• Gelandangan
+• Pengemis
+• Perseorangan dari komunitas adat terpencil 
+• Perempuan rawan sosial ekonomi 
+• Korban tindak kekerasan 
+•  Pekerja migran bermasalah sosial
+• Masyarakat miskin akibat bencana alam dan sosial pasca tanggap darurat
+• Perseorangan penerima manfaat lembaga kesejahteraan sosial
+• Penghuni rumah tahanan/lembaga pemasyarakatan
+• Penderita thalassemia mayor
+BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI19• Penderita Kejadian Ikutan Pasca Imunisasi (KIPI)
+• Peserta program keluarga harapan menggunakan kartu keluarga harapan
+• Penerima bantuan langsung sementara masyarakat
+• Perseorangan penerima program beras miskin
+Cara Pendaftaran peserta PBI APBN 
+Pendaftaran PBI tidak dapat dilakukan secara perorangan, tetapi melalui proses 
+verifikasi, validasi, dan penetapan sasaran menjadi PBI sebagaimana telah diatur 
+oleh Kementerian Sosial RI. Informasi selanjutnya dapat menghubungi Dinas Sosial kab/kota. Di tingkat daerah, pendaftaran penduduk PBI APBD diatur tersendiri oleh 
+Pemerintah Daerah (Pemda) masing-masing. Pada umumnya, penduduk yang 
+didaftarkan oleh Pemda adalah penduduk miskin dan tidak mampu yang tidak terdaftar 
+sebagai peserta Jamkesmas atau PBI APBN.
+Mekanisme Verifikasi PBIKegiatan verifikasi PBI jaminan kesehatan pengganti merupakan pemutakhiran 
+basis data terpadu. Pemutakhiran data diawali dengan kegiatan musyawarah desa/musyawarah kelurahan untuk mengusulkan PBI pengganti. Kemudian 
+dilakukan verifikasi oleh Tenaga Kesejahteraan Sosial Kecamatan (TKSK). 
+Sebelum melakukan verifikasi PBI pengganti. Hasil verifikasi dikirim ke pusat 
+basis data terpadu untuk memperbaharui Basis Data PBI. Kemudian dilakukan 
+analisis terhadap data tersebut. Pendaftaran PBI tidak melalui Kementerian 
+Kesehatan dan BPJS Kesehatan. Sehingga silakan menghubungi Dinas Sosial 
+Kabupaten / Kota setempat untuk informasi lebih lanjut tentang PBI. Selanjutnya 
+berdasarkan Peraturan Pemerintah Nomor 101 tahun 2012 tentang Penerima 
+Bantuan Iuran Jaminan Kesehatan bahwa data Penerima Bantuan Iuran (PBI) setiap 6 bulan akan dilakukan validasi oleh Kementerian Sosial. Menteri Sosial 
+telah menetapkan kriteria dan pendataan fakir miskin dan orang tidak mampu 
+melalui Keputusan Menteri Sosial Republik Indonesia Nomor 146/HUK/2013 
+tentang Penetapan Kriteria dan Pendataan Fakir Miskin dan Orang Tidak Mampu. 
+BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI20Bagi sebagian populasi kunci untuk mengakses PBI cukup bermasalah 
+dikarenakan persoalan identitas diri berupa KTP, KK, ataupun NIK yang tidak 
+dimiliki. Sedangkan identitas diri merupakan syarat mutlak yang wajib terpenuhi 
+bagi warga negara yang akan memperoleh JKN. 
+Dalam mengatasi hal ini bagi populasi kunci dapat mengakses melalui mekanisme 
+PBI yang kita ketahui mempunyai mekanisme pembiayaan melalui APBN 
+dan APBD. Bagi populasi kunci yang mengalami kesulitan dalam mengakses 
+layanan BPJS diharapkan mencoba melalui mekanisme pembiayaan APBD yang 
+mana di masing-masing wilayah atau daerah mempunyai kebijakan-kebijakan lokal yang berbeda. Untuk itu peran aktif dalam mencari informasi pada Dinas 
+Sosial setempat dan melakukan upaya pendekatan. Dengan mendaftarkan diri 
+baik kepada Dinas Sosial setempat sebagai bagian dari penerima bantuan yang 
+berhak dapat dilihat pada Bab pembahasan mengenai PBI. Yang utama di sini 
+adalah kesediaan diri dari populasi kunci untuk identitasnya didata dan serahkan 
+serta digunakan oleh Dinas Sosial. Untuk mempermudah mekanisme ini jaringan 
+atau LSM dapat mengorganisir populasi kunci yang bersedia identitas dirinya 
+diserahkan dan menjadi jembatan atau pendamping bagi mereka yang kurang 
+memiliki pemahaman mengenai hal ini serta melakukan upaya advokasi di tingkat daerah untuk dapat mengakses pembiayaan melalui APBD.
+Hal berikutnya yang dapat dilakukan adalah dengan mengurus identitas 
+kependukan seperti alur yang telah di sebutkan di bawah ini. BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI21ALUR PELAYANAN
+DAN PEMBENTUKAN
+DATA PENDUDUK
+DAFTAR PENDUDUK
+1. Pencatatan Biodata Penduduk dan 
+Penerbitan NI K
+2. Pencatatan atas Pelaporan 
+Peristiwa Kependudukan
+3. Pendataan Penduduk Rentan 
+Kependudukan
+4. Pelaporan Penduduk yang tidak 
+dapat melapor sendiri
+INFORMASI
+KEPENDUDUKA N
+SISTEM INFORMASI 
+ADMINISTRAS I
+DAN KEPENDUDUKAN
+DOKUME N
+KEPENDUDUKAN
+( Biodata, KK, KTP, Surat Keterangan 
+Kependudukan, Akta, Kutipan Akta)  
+(2)DATABAS E
+KEPENDUDUKA N
+Yang dimutakhirkan 
+terus−menerus 
+(1)
+MANFAAT
+1. Perumusan Kebijakan
+2. Perencanaan Pembangunan3. Kebutuhan Sektor Pembangunan lain4. Pemilukada dan Pemilu5. Penyusunan Perkembangan 
+Kependudukan
+6. Penyusunan Proyeksi Kependudukan7. Verifikasi Jati Diri Penduduk dan 
+Dokumen KependudukanCATATAN SIPI L
+1. Pencatatan Kelahira n
+2. Pencatatan Lahir mati3. Pencatatan Perkawinan4. Pencatatan Pembatalan Perkawinan5. Pencatatan Perceraian6. Pencatatan Pembatalan Perceraian7. Pencatatan Kematian8. Pencatatan Pengangkatan 
+Pengesahan dan Pengakuan Anak
+9. Pencatatan Perubahan Nama dan 
+Perubahan Status Kewarganegaraan
+10. Pencatatan Peristiwa Pentin g
+11. Pelaporan Penduduk yang tidak bisa 
+melapor sendiri
+INPUT
+OUTPUTBUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI22Pendaftaran penduduk 
+Dua hal yang penting dalam pendaftaran penduduk adalah:A.   Pemberian Nomor Induk Kependudukan (NIK) kepada seluruh penduduk
+       Indonesia. 
+• NIK adalah identitas penduduk dan merupakan kunci akses dalam 
+melakukan verifikasi dan validasi data diri seseorang guna mendukung 
+pelayanan publik.
+• NIK bersifat unik atau khas, tunggal dan melekat kepada seseorang   
+yang terdaftar sebagai penduduk.
+B. Pendataan penduduk rentan administrasi kependudukan
+Menindaklanjuti Peraturan Menteri Dalam Negeri No. 11 Tahun 2010 tentang 
+Pedoman Pendataan dan Penerbitan Dokumen Kependudukan bagi Penduduk 
+Rentan Administrasi, dan Surat edaran Menteri Dalam Negeri No. 470/41/MD 
+Tahun 2010. Perihal petunjuk pemutakhiran data kependudukan bagi penduduk 
+rentan administrasi kependudukan. Dinas Kependudukan dan Pencatatan Sipil dan Dinas Sosial melakukan pendataan terhadap orang terlantar yang telah 
+ditampung di panti dan rumah singgah binaan Dinas Sosial dan juga memberikan 
+penggantian dokumen administrasi kependudukan. Hal inilah yang dapat 
+dimanfaatkan oleh populasi kunci rentan administrasi kependudukan melalui 
+Dinas Sosial di wilayahnya.
+Terdapat beberapa masalah terkait NIK maupun identitas ganda di masyarakat 
+sehingga menyebabkan permasalahan dalam pendataan. Contoh kasus berita 
+yang dimuat mengenai data kependudukan di wilayah Bogor. 
+Kepala Dinas Kependudukan dan Pencatatan Sipil Kota Bogor, Dodi Achadiyat, 
+mengatakan 10 persen data kependudukan warga Kota Bogor bermasalah pada bagian 
+nomor induk kependudukan (NIK). ”(Sebanyak) 10 persen dokumen kependudukan 
+warga Kota Bogor bermasalah dengan NIK,” katanya di Bogor, Jawa Barat, Kamis 
+(4/2/2016). Ia mengungkapkan, permasalahan tersebut seperti ada warga yang belum 
+memiliki NIK karena tidak pernah melakukan pelayanan dokumen kependudukan, 
+BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI23sudah meninggal dunia, NIK ganda, dan satu nomor induk miliki dua nama.”Ada yang 
+punya NIK, tetapi ganda. Ada satu nomor, tapi dimiliki dua orang,” ujarnya. Menurutnya, 
+NIK yang bermasalah ini memengaruhi dokumentasi kependudukan Kota Bogor, 
+terutama dalam penyaluran Kartu Indonesia Sehat (KIS) Penerima Bantuan Iuran 
+(PBI) yang sedang dilaksanakan pemerintah daerah bersama BPJS Kesehatan.”NIK 
+diperlukan untuk mendistribusikan KIS-PBI, karena tanpa NIK tidak bisa dilacak 
+identitas kependudukan,” katanya. Ia mengungkapkan, warga Kota Bogor tidak akan 
+memiliki NIK kalau tidak mengurus dokumentasi kependudukan di Disdukcapil. Data 
+dari perekaman terdapat 641.377 orang yang memiliki NIK dari 778.664 wajib KTP. 
+”Hasil rekaman data kependudukan per Desember 2015, jumlah penduduk Kota Bogor sebanyak 984.060 jiwa, terdiri atas 501.165 laki-laki dan 482.895 perempuan,” 
+katanya. Dodi mengungkapkan, pihaknya akan melakukan inventarisasi merekam 
+ulang data kependudukan Kota Bogor agar semua warga yang wajib ber-KTP sudah 
+memiliki NIK. Ini dilakukan bersama Dinsosnakertrans pada Februari dan Juni 2016. 
+Pada tahun ini, tutur Dodi, Disdukcapil Kota Bogor sudah memiliki mobil layanan 
+KTP keliling yang akan melayani di pusat-pusat keramaian seperti mal. Disdukcapil 
+juga akan memperluas layanan dengan menyediakan akses kependudukan di setiap 
+kecamatan.”Kami mengajak masyarakat untuk melengkapi data kependudukannya 
+agar hal-hal yang berkaitan dengan bantuan pemerintah ini bisa tersalurkan kepada masyarakat secara tepat sasaran,” katanya.
+http://news.okezone.com/read/2016/02/04/338/1304437/10-ktp-warga-bogor-
+bermasalah-dengan-nik
+Hal seperti inilah yang banyak terjadi di banyak wilayah sehingga menyulitkan 
+untuk memperbaharui data bagi peserta penerima PBI, dan harus banyak 
+dilakukan kemudahan serta sosialisasi mengenai tata cara kepengurusan 
+agar masyarakat/populasi kunci yang mempunyai permasalahan terkait data 
+kependudukan dapat melakukan pengurusan.BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI24PENYELENGGARAAN JKN5
+BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI25
+5.1  Manfaat Jaminan Kesehatan Nasional
+Manfaat adalah faedah jaminan yang menjadi hak peserta dan anggota 
+keluarganya. JKN terdiri dari dua jenis, yaitu: Manfaat medis berupa layanan 
+kesehatan yang tidak terikat dengan besaran iuran yang dibayarkan dan manfaat 
+non medis meliputi akomodasi dan ambulans. Ambulans hanya diberikan untuk 
+pasien rujukan dari fasilitas kesehatan dengan kondisi tertentu yang diatur oleh 
+BPJS Kesehatan.
+Manfaat JKN mencakup pelayanan promotif, preventif, kuratif dan rehabilitatif. 
+Termasuk pelayanan obat dan medis habis pakai sesuai dengan kebutuhan medis.
+Manfaat pelayanan preventif dan promotif meliputi:
+• Penyuluhan kesehatan perorangan
+• Imunisasi dasar
+• Keluarga berencana 
+• Skrining kesehatan
+Meskipun manfaat yang dijamin dalam JKN bersifat komprehensif, masih ada
+manfaat yang tidak dijamin meliputi:
+a. Pelayanan di luar prosedur
+b. Pelayanan di luar fasilitas kesehatan yang tidak bekerja sama dengan BPJS
+c. Pelayanan bertujuan kosmetik
+d. General check-up/pengobatan alternatif
+e. Pengobatan untuk mendapatkan keturunanf. Pelayanan kesehatan saat bencana
+g.Percobaan bunuh diri penyakit yang timbul akibat kesengajaan untuk 
+menyiksa diri/bunuh diri/narkoba.
+Pelayanan kesehatan yang dijamin meliputi:
+a) Pelayanan kesehatan tingkat pertama, yaitu pelayanan kesehatan non 
+spesialistik mencakup:BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI26
+1. Administrasi kesehatan 
+2. Pelayanan promotif dan preventif
+3. Pemeriksaan, pengobatan dan konsultasi medis 
+4. Tindakan medis non spesialistik, baik operatif maupun non operatif
+5. Pelayanan obat dan bahan medis habis pakai
+6. Tranfusi darah sesuai kebutuhan medis
+7. Pemeriksaan penunjang diagnostik laboratorium tingkat pertama 
+8. Rawat inap tingkat pertama sesuai indikasi
+b) Pelayanan kesehatan rujukan tingkat lanjutan, yaitu pelayanan kesehatan 
+mencakup: 
+1. Rawat jalan yang meliputi:
+a. Administrasi pelayanan
+b. Pemeriksaan, pengobatan dan konsultasi spesialistik oleh dokter spesialistik 
+dan subspesial
+c. Tindakan medis spesialistik sesuai dengan indikasi medis
+d. Pelayanan obat dan bahan medis habis pakai
+e. Pelayanan alat kesehatan implanf. Pelayanan penunjang diagnostik lanjutan sesuai indikasi medis
+g. Rehabilitasi medis
+h. Pelayanan darah
+i. Pelayanan dokter forensik
+j. Pelayanan jenasah di fasilitas kesehatan
+2. Rawat inap yang meliputi :
+a. Perawatan inap non intensifb. Perawatan inap di ruang intensifc. Pelayanan kesehatan lain ditetapkan oleh Menteri
+Hal yang menjadi dasar dalam penerimaan manfaat disini adalah perbedaan
+besaran iuran tidak akan menyebabkan perbedaan dalam menerima layanan
+medis termasuk obat-obatan, tetapi yang akan menjadi pembeda hanyalah 
+ruangan atau kelas dalam fasilitas rawat inap.
+ BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI275.2  Alur Layanan JKN
+Sistem rujukan pelayanan kesehatan adalah penyelenggaraan pelayanan 
+kesehatan pada JKN yang mengatur pelimpahan tugas dan tanggung jawab 
+pelayanan kesehatan secara timbal balik baik vertikal maupun horisontal yang 
+wajib dilaksanakan oleh peserta jaminan kesehatan dan seluruh fasilitas 
+kesehatan.
+ALUR PELAYANAN
+KESEHATAN JK N
+FASILITAS KESEHATA N
+TINGKAT PERTAM A
+1. Rawat Jalan Tingkat Pertama
+2. Rawat Inap Tingkat Pertama
+Rujuk ke Faskes 
+Sekunder / Tersier
+ membawa:
+1. Identitas Peserta
+2. Surat RujukanRujuk Bali kPUSKESMAS
+RUMAH SAKIT /
+ BALKESMASMembawa:Identitas Peserta
+Emer gency / 
+Gawat DaruratFASILITAS KESEHATA N
+TINGKAT LANJUTA N
+1. Rawat Jalan Tingkat Lanjutan
+2. Rawat Inap Tingkat LanjutanBUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI28
+Sesuai dengan bagan alur layanan yang ada peserta melakukan pemeriksaan
+pada fasilitas layanan tingkat pertama, dan jika diperlukan rujukan maka
+akan diberikan Surat Rujukan kepada fasilitas layanan sekunder / tersier 
+tergantung layanan yang dibutuhkan. Akan tetapi dalam kondisi darurat peserta 
+dapat langsung menuju rumah sakit / layanan kesehatan sekunder / tersier.
+Tata cara sistem rujukan berjenjang akan dijelaskan secara lebih detil sebagai berikut:1. Sistem rujukan layanan kesehatan akan dilakukan secara berjenjang sesuai 
+kebutuhan medis yaitu:
+a. Dimulai pada fasilitas kesehatan tingkat pertama
+b. Jika diperlukan akan dirujuk ke fasilitas kesehatan tingkat kedua
+c. Apabila dibutuhkan dan tidak terdapat layanan di fasilitas kesehatan sekunder 
+akan dirujuk ke fasilitas kesehatan tersier.
+2. Pelayanan di fasilitas kesehatan primer yang dapat dirujuk langsung ke fasilitas 
+kesehatan tersier hanya untuk kasus yang telah ditegaskan diagnosisnya dan 
+rencana terapinya. Dan layanan hanya tersedia di fasilitas kesehatan tersier.
+3. Ketentuan layanan rujukan berjenjang dapat dikecualikan dalam kondisi:
+a. Kondisi kegawatdaruratan
+b. Bencana
+c. Kekhususan permasalahan kesehatan klien
+d. Pertimbangan geografis
+e. Pertimbangan kesediaan fasilitas
+4. Pelayanan oleh bidan dan perawat
+a. Dalam keadaan tertentu, bidan atau perawat dapat memberikan pelayanan tingkat 
+pertama
+b. Bidan dan perawat hanya dapat memberikan rujukan ke dokter pemberi   
+layanan di tingkat pertama kecuali dalam kondisi gawat darurat
+BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI295. Rujukan parsial
+a. Rujukan parsial adalah pengiriman pasien atau spesimen ke pemberi layanan 
+kesehatan lain dalam rangka menegakkan diagnosis atau pemberian terapi, 
+yang merupakan satu rangkaian rawatan pasien.
+b. Apabila pasien adalah pasien rujukan parsial, maka penjamin pasien dilakukan 
+oleh fasilitas kesehatan perujuk. 
+5.2.1. Alur rujuk balik
+Program layanan rujuk balik diberikan kepada peserta BPJS penderita penyakit kronis, yang sudah terkontrol/stabil namun masih memerlukan pengobatan atau 
+asuhan keperawatan dalam jangka waktu panjang.
+Peserta yang berhak memperoleh obat PRB (Program Rujuk Balik) peserta 
+dengan penyakit kronis yang telah ditetapkan dalam kondisi stabil oleh dokter 
+spesialis dan telah mendaftarkan diri untuk menjadi peserta rujuk balik.
+Mekanisme pendaftaran peserta rujuk balik: 
+1. Peserta mendaftar pada petugas pojok PRB dengan menyertakan:
+a. Kartu identitas peserta BPJS Kesehatan
+b. Surat rujuk balik dari dokter spesialis
+c. Surat elijibilitas peserta dari BPJS Kesehatan
+d. Lembar resep obat/salinan resep
+2. Peserta mengisi formulir pendaftaran peserta PRB
+3. Peserta menerima buku kontrol peserta PRB
+5.3  Pembiayaan
+Iuran jaminan kesehatan adalah sejumlah uang yang dibayarkan secara teratur oleh 
+peserta, pemberi kerja dan/atau pemerintah untuk program jaminan kesehatan 
+(Perpres No. 12 Tahun 2013 tentang jaminan kesehatan).
+BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI30
+Setiap peserta wajib membayarkan iuran yang besarnya berdasarkan presentase 
+dari upah (untuk pekerja penerima upah) atau suatu jumlah nominal tertentu 
+(bukan penerima upah dan PBI).
+• Bagi peserta PBI jaminan kesehatan dibayarkan oleh pemerintah
+• Bagi peserta pekerja penerima upah dibayar oleh pemberi kerja dan pekerja
+• Iuran jaminan kesehatan bagi peserta pekerja bukan penerima upah dan peserta 
+bukan pekerja dibayar oleh peserta yang bersangkutan.
+Sedangkan tatacara pembayaran kepada fasilitas kesehatan:• BPJS Kesehatan membayarkan kepada fasilitas kesehatan tingkat pertama 
+dengan kapitasi (sistem pembayaran kapitasi adalah cara pembayaran oleh 
+pengelola dana kepada penyelenggara kesehatan primer untuk pelayanan yang 
+diselenggarakannya, yang besar biayanya tidak dihitung berdasarkan jenis 
+ataupun jumlah layanan melainkan berdasarkan jumlah pasien yang menjadi 
+tanggungan (Eastaugh1981;Weeks,1979)
+•  Sedangkan untuk fasilitas kesehatan rujukan tingkat lanjutan BPJS membayarkan 
+dengan cara INA CBG’s (sistem paket)
+• Jika suatu daerah tidak memungkinkan pembayaran berdasarkan kapitasi, 
+BPJS Kesehatan diberi wewenang untuk melakukan pembayaran dengan mekanisme lain yang lebih berhasil guna.
+• Pelayanan gawat darurat yang dilakukan oleh fasilitas kesehatan yang tidak 
+menjalin kerjasama dengan BPJS Kesehatan dibayar dengan penggantian 
+biaya, yang ditagihkan langsung oleh fasilitas kesehatan setara dengan tarif 
+yang berlaku di wilayah tersebut.
+• BPJS Kesehatan wajib membayar fasilitas kesehatan atas pelayanan yang diberikan kepada peserta paling lambat 15 hari sejak dokumen klaim lengkap 
+diterima.BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI31TANYA JAWAB SEPUTAR BPJS6BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI32T:  Jika saya seorang diri dan tidak memiliki kartu keluarga apakah dapat mendaftar 
+BP JS?
+J:  Bisa mendaftar seorang diri yang penting memiliki NIK. Mendaftar bisa di kantor BPJS dengan mengisi formulir (daftar isian peserta) atau secara 
+online dengan mengklik di www.bpjs-kesehatan.go.id kemudian menuju 
+Kantor BPJS terdekat sesuai alamat domisili untuk proses selanjutnya 
+(mendapatkan kode untuk membayar dan kartu peserta JKN)
+T:  Benarkah untuk bisa ikut serta JKN harus memiliki rekening di Bank?
+J:  Rekening bank menjadi syarat untuk seseorang yang ingin mendaftar di kelas 
+1 atau kelas 2. Untuk kelas 3 tidak diperlukan. Rekening bank memudahkan 
+untuk dilakukan auto debet jika peserta terlambat membayar. Sedangkan 
+untuk peserta kelas 3, jika tidak membayar BPJS akan dialihkan menjadi 
+peserta PBI.
+T:  Apakah bisa mendaftar JKN di Jakarta dengan KTP non-Jakarta? 
+J:  Bisa, mendaftar peserta JKN bisa di mana saja. Prinsip portabilitas dimaksud untuk memberikan jaminan yang berkelanjutan meskipun berpindah 
+pekerjaan atau tempat tinggal dalam wilayah Negara Kesatuan Republik Indonesia.
+T:  Siapa yang menentukan PBI?
+J:  Yang menentukan PBI adalah tim dari Dinas Sosial. Mereka akan mendata siapa saja yang masuk dalam kategori miskin. Data tersebut disampaikan 
+pada Dinas Kesehatan dan didaftarkan sebagai peserta PBI. Dan menjadi 
+peserta PBI dengan sumber pendanaan APBN. Sedangkan bagi PBI sumber 
+Dana APBD, cukup dengan mengajukan KTP DKI Jakarta dan Kartu Keluarga 
+(KK) ke puskesmas kecamatan atau kelurahan dan bersedia ditempatkan dengan fasilitas kelas 3 bagi warga DKI.
+T:  Jika ada dampingan atau populasi kunci yang sakit tetapi belum memiliki BP JS 
+bagaimana solusinya?
+J:  Secepatnya membawa ke rumah sakit asalkan memiliki KTP Jakarta (untuk wilayah DKI), bisa ditanggung oleh JKN dengan menjadi peserta PBI-APBD.
+BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI33
+ Dengan syarat bersedia dirawat di ruang perawatan kelas 3, dan mengurus 
+persyaratan administrasi sejak hari pertama dirawat dan kelengkapannya 
+dengan maksimum waktu pengurusan 3 hari. Adapun syarat yang harus 
+dilengkapi adalah: Surat rawat inap, surat keterangan tidak mampu dari RT/
+RW atau lurah, surat pengantar dari dinas sosial dan menyiapkan fotokopi 
+KTP dan KK serta fotokopi rekening listrik minimal 900 W.
+T:  Bagaimana caranya jika kita seorang diri atau merujuk dampingan yang hidup 
+seorang diri?
+J:  Yang harus dilakukan adalah:
+- Menginformasikan kepada Dinas Kependudukan dan Pencatatan Sipil tentang keberadaan orang tersebut (Dinas Kependudukan dan Pencatatan 
+Sipil berkewajiban mendata semua orang)
+- Membantu menyiapkan persyaratan agar mengetahui atau mendapatkan NIK baru.
+• Menyiapkan dua penjamin/saksi
+• Menyiapkan surat pernyataan bermaterai jika belum memiliki NIK
+• Mengurus surat pengantar RT dan RW dan/atau rekomendasi dari Dinas  
+Sosial
+• Menyiapkan dokumen kependudukan yang dimiliki, antara lain akta 
+kelahiran, ijazah, KK, KTP, akte perkawinan/perceraian
+• Mendatangi Ditjen Kependudukan dan Pencatatan sipil Kemendagri untuk 
+menelusuri NIK orang tua/keluarganya
+T:  Jika saya mempunyai permasalahan terkait layanan BP JS kemana saya harus 
+melapor?
+J:  Untuk layanan hotline dapat menghubungi 1500-400, atau 
+website : 
+ www.bpjs-kesehatan.go.id. 
+ Dapat juga melakukan pengaduan ke Kemenkes: 
+ Biro Komunikasi dan Pelayanan Masyarakat, Kemenkes RI
+ Telp: 021-1500567 (Halo Kemenkes)
+ Faks.021-52921669 SMS: 081281562620
+ Email: kontak@kemkes.go.id
+ Web: www.sehatnegeriku.kemkes.go.idBUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI34
+ Atau kepada Pusat Pembiayaan dan Jaminan Kesehatan RI
+ Telp: 021-5221229
+ Faks. 021-5277543
+ Email: jamkesmas@yahoo.com
+ Web: www.ppjk.depkes.go.id
+ Untuk menghubungi pihak pihak tersebut diatas jangan lupa keluhan disertai 
+bukti-bukti yang cukup mudah dipahami agar dapat ditindaklanjuti.
+T:  Bagaimana cara mengetahui apakah kartu BP JS saya aktif atau tidak?
+J:  Untuk peserta baru kartu akan aktif setelah 14 hari setelah pendaftaran atau 
+pembayaran dilakukan.
+ Untuk melakukan cek kartu dapat dengan menggunakan SMS gateway BPJS dengan format:
+ NOKA< spasi> Nomor kartu BPJS Kesehatan
+ Kirim ke: 087775500400
+ Atau dengan menghubungi call center BPJS di nomor 1500-400 
+T:  Apakah warga binaan yang berada dalam lapas dan rutan bisa atau sudah dilayani dengan mempergunakan BP JS?
+J:  Sesuai dengan Peraturan Pemerintah Republik Indonesia No. 76 Tahun 2015 
+tentang Perubahan atas Peraturan Pemerintah No. 101 Tahun 2012 tentang 
+Penerima Bantuan Iuran. Dalam Pasal 11 Butir 7 tentang Penggantian dan 
+Penambahan Data PBI tertulis fakir miskin dan orang tidak mampu yang 
+salah satunya adalah tahanan/warga binaan pada rumah tahanan negara/
+lembaga pemasyarakatan dapat dimasukkan dalam data PBI.BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI35
+KESIMPULAN7BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI36Kesimpulan
+JKN merupakan skema kesehatan yang baik bagi seluruh masyarakat di mana 
+sistem pembiayaan kesehatan menjamin tersedianya akses masyarakat terhadap 
+pelayanan kesehatan dan memberikan perlindungan kepada mereka terhadap 
+risiko keuangan. 
+Dengan prinsip portabilitas dan prinsip gotong royong diharapkan  seluruh
+masyarakat dapat mengakses layanan kesehatan di manapun 
+di dalam wilayah Negara Kesatuan Republik Indonesia, tanpa adanya pembedaan 
+terhadap pemeriksaan maupun obat-obatan yang dibutuhkan.
+Dengan skema pembiayaan yang saling menunjang di mana pihak yang mampu 
+serta masyarakat yang tidak mampu dan pemerintah membuat rasa kesatuan 
+dalam mewujudkan masyarakat Indonesia yang sehat.
+Walaupun hingga saat ini dalam proses dan praktiknya masih banyak terjadi  
+kendala-kendala teknis di lapangan yang menyebabkan keengganan sebagian 
+masyarakat untuk berpartisipasi dalam JKN diharapkan proses perbaikan-perbaikan 
+terus dilakukan dan untuk inilah dibutuhkan pemahaman akan JKN dan peran aktif 
+masyarakat untuk memberikan masukan serta mengawasi proses proses yang ada di  lapangan.
+Harapan ke depan adalah terciptanya masyarakat Indonesia yang mempunyai 
+hak yang sama dalam memperoleh akses atas sumber daya di bidang kesehatan 
+dan memperoleh pelayanan kesehatan yang aman, bermutu, dan terjangkau 
+dapat terwujud.
+BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI37
+REFERENSI8BUKU PANDUAN JAMINAN KESEHATAN NASIONAL (JKN) BAGI POPULASI KUNCI38Referensi
+- Buku pegangan sosialisasi JKN dan SJSN Kemenkes RI
+- http://bpjs-kesehatan.go.id/bpjs/- http://news.okezone.com/read/2016/02/04/338/1304437/10-ktp-warga-  
+bogor-bermasalah-dengan-nik
+- http://www.kemsos.go.id/modules.php?name=Content&pa=showpage&pid=
+126&page=3 Data PBI
+- Kumpulan pertanyaan terkait identitas kependudukan dan JKN BPJS, oleh Edi 
+Sugiarto, Derap Project 2016
+- Panduan layanan Bagi peserta BPJS Kesehatan- Panduan Praktis Program Rujuk Balik Bagi peserta JKN- Panduan Praktis Sistim Rujukan Berjenjang- Panduan Teknis Pendataan Penyandang Masalah Kesejahteraan Sosial , Tahun 2014
+- Permenkes No:99, Tentang Pelayanan Kesehatan Pada Jaminan Kesehatan 
+Nasional, Tahun 2015
+- Perpres No: 101 Tentang Penerima Bantuan Iuran Kesehatan , Tahun 2012
+- Perpres No: 12 Tahun 2013 Tentang jaminan kesehatan
+- Perpres RI Nomor 12, Tahun 2013 Tentang Jaminan Kesehatan Nasional
+- Peraturan Pemerintah RI Nomor 76, Tahun 2015 tentang Perubahan Peraturan 
+Pemerintah Nomor 101, Tahun 2012
+- PMK No: 27 Tentang Juknis INA CBGs Tahun 2014- PMK No: 59 Tentang standart Tarif JKN , Tahun 2014
+- PMK No: 71 Tentang Pelayanan Kesehatan pada Jaminan Kesehatan Nasional, 
+Tahun 2013
+- Presentasi Pelayanan Adminduk Dinas Kependudukan dan catatan sipil DKI, 
+Tahun 2016
+- Undang Undang Republik Indonesia Nomor 24 , Tahun 2011Indonesia AIDS Coalition 
+Jl. Tebet Timur Dalam 10D No. 3 Jakarta 12820 –IndonesiaT: (+62) 21 8378 87 40E: info@iac.or.idwww.iac.or .id
